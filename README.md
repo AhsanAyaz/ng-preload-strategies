@@ -1,27 +1,33 @@
 # NgPreloadStrategies
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+This is a sample project for my video tutorial on implementing Routes Preloading Strategies in Angular.
 
-## Development server
+## Video Tutorial
+Tap the image below:
+
+<div>
+  <center>
+    <a href="https://youtu.be/RQGLcMnh9k8">
+      <img width="500" style="margin: 0 auto;" src="./src/assets/vid-thumbnail.png">
+    </a>
+  </center>
+</div>
+
+## Try it out
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Like what you see?
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+🤔 Here's how you can make things more awesome for me... 
+<hr>
 
-## Build
+⭐ [Star this repo](https://github.com/AhsanAyaz/ng-preload-strategies)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+✔️ [Follow me on GitHub](https://github.com/ahsanayaz)
 
-## Running unit tests
+✔️ [Follow me on Twitter](https://twitter.com/muhd_ahsanayaz)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+✔️ [Follow me on Instagram](https://instagram.com/muhd.ahsanayaz)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+✔️ [Follow me on Facebook](https://facebook.com/muhd.ahsanayaz)

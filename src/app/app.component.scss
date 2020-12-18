@@ -1,0 +1,12 @@
+.sidebar {
+  position: fixed;
+  top: 200;
+  left: -100%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 40px;
+  transition: all ease 0.2s;
+  &--open {
+    left: 10px;
+    right: auto;
+  }
+}
